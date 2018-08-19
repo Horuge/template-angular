@@ -10,6 +10,8 @@ import { ItemComponent } from './pages/item/item.component';
 
 import { AppRoutingModule } from './app-routing.module';
 
+import { HttpClientModule } from '@angular/common/http';
+
 
 @NgModule({
   declarations: [
@@ -21,8 +23,9 @@ import { AppRoutingModule } from './app-routing.module';
     ItemComponent
   ],
   imports: [
-    BrowserModule, 
-    AppRoutingModule
+    BrowserModule,
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
