@@ -1,0 +1,21 @@
+{
+  "equipo" : [ {
+    "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+    "nombre" : "Robert T. Williams",
+    "subtitulo" : "Graphic Designer",
+    "twitter" : "@robertwilliams",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-c7ca9.appspot.com/o/team-1.jpg?alt=media&token=a2b4c5d9-03a7-4dbb-bd6c-65e840949a52"
+  }, {
+    "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+    "nombre" : "Angelina B. Widow",
+    "subtitulo" : "Fundador",
+    "twitter" : "@angelinawidow",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-c7ca9.appspot.com/o/team-2.jpg?alt=media&token=ec2ce2aa-7be5-4918-99d1-777c86109714"
+  }, {
+    "frase" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "nombre" : "Peter Parker",
+    "subtitulo" : "Director Artistico",
+    "twitter" : "@patrickanderson",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-c7ca9.appspot.com/o/team-3.jpg?alt=media&token=5080c756-b06a-4900-afb3-cad322968dd2"
+  } ]
+}
