@@ -33,7 +33,6 @@ export class ProductosService {
    }
 
    buscarProducto(termino: string) {
-
     if (this.productos.length === 0) {
       this.cargarProductos().then(() => {
         this.filtrarProductos(termino);
@@ -45,6 +44,7 @@ export class ProductosService {
 
 
    private filtrarProductos(termino: string) {
+
      this.productoFiltrado = [];
      termino = termino.toLowerCase();
 
